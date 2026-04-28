@@ -104,3 +104,8 @@ description: 로또 번호를 추첨하고 통계 기반 분석을 제공하는 
 - "행운의 로또 번호"
 - "로또 번호 추첨"
 - "로또 번호 알려줘"
+
+
+<img width="1440" height="1586" alt="image" src="https://github.com/user-attachments/assets/b8402585-59ab-40b9-9ecc-8cbf468f22d8" />
+
+- 
